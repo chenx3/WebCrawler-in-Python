@@ -1,1 +1,2 @@
 # WebCrawler-in-Python
+# WordGameAssistant
